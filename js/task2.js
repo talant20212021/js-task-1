@@ -2,4 +2,4 @@
 var text="Hello Orion";
 console.log("text");
 text="Hello On";
-console.log(text);g
+console.log(text);
